@@ -3,7 +3,7 @@ import subprocess#
 from sys import exit#
 #
 disalloweduuids = [
-  ""
+  "4C4C4544-0056-3910-8043-B9C04F4E3933"
 ]#
 #
 if platform.system() == "Windows":#
